@@ -19,3 +19,4 @@ I'm passionate about **IT** , **cybersecurity** but also **art** and **geopoliti
 - playing video games (cyberpunk 2077 forever in my heart)
 - reading
 
+gonna post some cybersecurity project so stay tuned and don't forget to follow me ! :D
