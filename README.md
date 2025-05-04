@@ -1,6 +1,6 @@
 ## Welcome to my Github profile ! 
 
-Call me Robi
+
 I'm passionate about **IT** , **cybersecurity** but also **art** and **geopolitics** 
 
 ## 🧠 About Me
