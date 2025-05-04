@@ -11,7 +11,7 @@ I'm passionate about **IT** , **cybersecurity** but also **art** and **geopoliti
 
 ## 🎯 Goals
 - being a cybersecurity engineer ( blue team or pentesting)
-- being like Hanako Arasaka but shhhhhh 
+- create a manga about technology that can cheer up girls to go on the STEM field
 
 ## ❤️ Hobies
 - Drawing
