@@ -4,10 +4,10 @@
 I'm passionate about **IT** , **cybersecurity** but also **art** and **geopolitics** 
 
 ## 🧠 About Me
-- 🎓 Comp sci student 
-- 💥 Focused on system , network but i'm working on my cybersecurity skills 
-- 🌍 Languages: French / English / Spanish ( a bit ) / Japanese ( N5 ) 
-- 🛠️ Tools I use: `Linux` `Python` `Bash` `Burp Suite` `Wireshark` `Nmap` but i'm still learning using other tools
+-  Comp sci student 
+-  Focused on system , network but i'm working on my cybersecurity skills 
+-  Languages: French / English / Spanish ( a bit ) / Japanese ( N5 ) 
+-  Tools I use: `Linux` `Python` `Bash` `Burp Suite` `Wireshark` `Nmap` but i'm still learning using other tools
 
 ## 🎯 Goals
 - being a cybersecurity engineer ( blue team or pentesting)
