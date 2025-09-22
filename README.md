@@ -10,7 +10,7 @@ I'm passionate about **IT** , **cybersecurity** but also **art** and **geopoliti
 -  Tools I use: `Linux` `Python` `Bash` `Burp Suite` `Wireshark` `Nmap` but i'm still learning using other tools
 
 ## 🎯 Goals
-- being a cybersecurity engineer ( blue team or pentesting)
+- Being a system administration in my dream country 
 - create a manga about technology that can cheer up girls to go on the STEM field
 
 ## ❤️ Hobies
