@@ -16,7 +16,7 @@ I'm passionate about **IT** , **cybersecurity** but also **art** and **geopoliti
 ## ❤️ Hobies
 - Drawing
 - learning new languages
-- playing video games (cyberpunk 2077 forever in my heart)
+- playing video games (clair obscur expedition 33 forever in my heart)
 - reading
 
 gonna post some cybersecurity project so stay tuned and don't forget to follow me ! :D
