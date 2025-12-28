@@ -1,7 +1,7 @@
 ## Welcome to my Github profile ! 
 
 
-I'm passionate about **IT** , **cybersecurity** but also **art** and **geopolitics** 
+I'm passionate about **IT** , **cybersecurity** but also **art** 
 
 ## 🧠 About Me
 -  Comp sci student 
