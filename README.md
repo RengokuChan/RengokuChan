@@ -13,7 +13,7 @@ I'm passionate about **IT** , **cybersecurity** but also **art**
 ## ❤️ Hobies
 - Drawing
 - learning new languages
-- playing video games (clair obscur expedition 33 forever in my heart)
+- playing video games
 - reading
 
 gonna post some cybersecurity project so stay tuned and don't forget to follow me ! :D
