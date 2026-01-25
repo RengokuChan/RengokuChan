@@ -1,6 +1,5 @@
 ## Welcome to my Github profile ! 
 
-
 I'm passionate about **IT** , **cybersecurity** but also **art** 
 
 ## 🧠 About Me
@@ -14,6 +13,5 @@ I'm passionate about **IT** , **cybersecurity** but also **art**
 - Drawing
 - learning new languages
 - playing video games
-- reading
 
 gonna post some cybersecurity project so stay tuned and don't forget to follow me ! :D
