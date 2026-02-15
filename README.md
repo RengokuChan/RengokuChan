@@ -9,9 +9,4 @@ I'm passionate about **IT** , **cybersecurity** but also **art**
 -  Tools I use: `Linux` `Python` `Bash` `Burp Suite` `Wireshark` `Nmap` but i'm always learning new tech related stuff 🤓
 - I use arch btw 
 
-## ❤️ Hobies
-- Drawing
-- learning new languages
-- playing video games
-
-gonna post some cybersecurity project so stay tuned and don't forget to follow me ! :D
+gonna post serious and cool project so stay tuned and don't forget to follow me ! :D
