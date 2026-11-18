@@ -2,12 +2,11 @@
 
 > *In comp sci, with creativity.* 
 
-2nd-year BUT Réseaux & Télécommunications (Cybersecurity track) student at IUT de Béthune, holding a BTS SIO SISR. Passionate about systems administration, network infrastructure, and an active **CTF enjoyer** (Root-Me, Hack The Box)! 
+Passionate about systems administration, network infrastructure, and an active **CTF enjoyer** (Root-Me, Hack The Box)! 
 
 🎯 **Current Goals & Vision:**
-* 🌸 Preparing a research internship in Japan (KOSEN, Spring 2027) with the long-term ambition of becoming a computer science researcher and university professor in Japan.
-* 🎨 Creating an educational cyberpunk manga concept (*RE:Birth Protocol*) to introduce young minds and women to tech, programming, and cybersecurity.
-* 🛡️ Training on Hack The Box Academy toward advanced offensive security certifications (CPTS / OSCP).
+* 🌸 long-term ambition of becoming a computer science researcher and university professor in Japan.
+* 🎨 Creating an educational manga concept to introduce young minds and women to tech, programming, and cybersecurity.
 
 ---
 
